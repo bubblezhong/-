@@ -68,7 +68,8 @@
 	  color: #ffffff;
 	  font-size: 14px;
 	  font-family: 宋体;
-	  text-decoration: none;
+	  /*text-decoration: none;*/
+	  
 }
 .nav ul li a:hover{color: blue;}
 
